@@ -25,10 +25,16 @@ Este repositorio consolida las cuatro entregas del TPI: el análisis del sistema
 ## Estructura del repositorio
 
 ```
-/docs
-  /entregas    → documentos PDF de las Entregas 1 a 4
-  /diagramas   → BPMN, organigrama, FODA, Gantt, diccionario de datos
+/
+├── README.md                     → portada del proyecto
+├── 1Delgado-...pdf               → Entrega 1
+├── 2Delgado Victoria TPI_...pdf  → Entrega 2
+├── 3Delgado_Victoria_...pdf      → Entrega 3
+└── 4 Delgado TPI_Entrega4_...pdf → Entrega 4
 ```
+
+Los diagramas (BPMN, organigrama, FODA, Gantt y diccionario de datos) están incluidos dentro de cada PDF de entrega.
+
 
 ## Historias de usuario
 
@@ -50,3 +56,10 @@ El seguimiento de estas historias (Por hacer / En progreso / Listo) se gestiona 
 ## Declaración de uso de IA
 
 Para este trabajo utilicé un asistente de Inteligencia Artificial con el fin de obtener una revisión previa antes de realizar la entrega. Algunas observaciones que el asistente marcó como errores preferí no modificarlas, ya que consideré que no lo eran.
+
+**Prompts utilizados:** pedí ayuda para estructurar los documentos, dar formato Markdown al README a partir de un texto propio, y entender cómo usar GitHub y GitHub Projects, herramientas que usaba por primera vez.
+
+**Correcciones propias:**
+- Reescribí en español los mensajes de commit que GitHub Copilot sugirió en inglés, siguiendo el estándar definido en este README.
+- Corregí el organigrama generado para que reflejara la estructura real del emprendimiento.
+- Verifiqué en la práctica las indicaciones sobre GitHub y resolví de otra forma las que no funcionaban.
