@@ -31,6 +31,7 @@ Este repositorio consolida las cuatro entregas del TPI: el análisis del sistema
 ├── 2Delgado Victoria TPI_...pdf  → Entrega 2
 ├── 3Delgado_Victoria_...pdf      → Entrega 3
 └── 4 Delgado TPI_Entrega4_...pdf → Entrega 4
+└── TRABAJO PRÁCTICO INTEGRADOR FINAL...pdf → Entrega final (entregas 1 a 4 en un solo PDF, con correcciones)
 ```
 
 Los diagramas (BPMN, organigrama, FODA, Gantt y diccionario de datos) están incluidos dentro de cada PDF de entrega.
